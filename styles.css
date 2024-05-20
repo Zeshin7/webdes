@@ -1,0 +1,171 @@
+html { 
+    height: 100%;
+} /*1*/
+
+body {
+    background-image: url(Images/Untitled\ design.png);
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    white-space: nowrap;
+} /*5*/
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+} /*4*/
+
+nav {
+    margin-top: 10px;
+    background-color: rgba(141, 182, 192, 50%);
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px; 
+} /*9*/
+
+.anav {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-left: 100px;
+} /*4*/
+
+.nav {
+    text-align: center;
+} /*1*/
+
+main {
+    margin-top: 40px;
+    text-align: left;
+    white-space: nowrap;
+    background-color: rgba(141, 182, 192, 50%);
+} /*4*/
+
+.us {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 200px;
+    margin-top: 40PX;
+} /*6*/
+
+.mu {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 90px;
+    font-size: 20px;
+} /*4*/
+
+.aman {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+} /*5*/
+
+.salediv {
+    white-space: nowrap;
+    margin-top: 90px;
+    margin-left: 20%;
+    padding-bottom: 40px;
+} /*4*/
+
+.sale {
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: middle;
+} /*3*/
+
+.saleimg {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 80px;
+} /*5*/
+
+.ts {
+    text-align: center;
+    background-color: rgba(141, 182, 192, 50%);
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 10px;
+    white-space: nowrap;
+} /*7*/
+
+.tp {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+} /*4*/
+
+.re {
+    width: 300px;
+    height: 300px;
+    padding-left: 5%;
+    padding-right: 5%;
+} /*4*/
+
+.ts > p {
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+} /*3*/
+
+.tpn {
+    white-space: nowrap;
+    padding-bottom: 50px;
+} /*2*/
+
+.atop {
+    font-size: 30px;
+    padding-left: 7%;
+    padding-right: 7%;
+    text-decoration: none;
+    color: black;
+} /*5*/
+
+tr {
+margin-top: 30px;
+    white-space: nowrap;
+} /*2*/
+
+.reviews {
+    height: 300px;
+    width: 300px;
+    padding-left: 40px;
+    padding-right: 40px;
+} /*4*/
+
+footer {
+    background-color: rgba(243, 243, 209, 81%);
+    margin-top: 50px;
+} /*2*/
+
+footer > h2 {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 30px;
+} /*5*/
+
+
+.afot {
+    padding-left: 10%;
+    padding-right: 7%;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+} /*5*/
+
